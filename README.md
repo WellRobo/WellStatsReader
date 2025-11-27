@@ -46,7 +46,7 @@ This setup is ideal for:
 - Testing edge processing and visualization pipelines
 - Educational or demo purposes in AI, IoT, or healthcare tech
 
-![N|Solid](Images/rb3_gen2_hms_input.png)
+![N|Solid](Images/rb3_gen2_hms_input.jpg)
 
 # 2. Application Requirements
 
