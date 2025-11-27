@@ -1,0 +1,5442 @@
+[
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:43.756835+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:44.439154+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:45.202512+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:46.202908+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:47.223489+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:47.844487+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:48.218500+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:49.071192+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:50.219099+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:34.216857+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:35.149769+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:35.577573+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:36.264601+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:36.987892+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:38.177656+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:38.314763+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:39.192082+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:40.060891+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:40.674154+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:41.182384+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:42.217609+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:42.424475+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:43.196932+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:22.763295+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:23.551855+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:24.134542+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:25.144675+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:25.331841+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:26.148251+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:27.057617+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:27.670654+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:28.153519+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:29.154450+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:29.473224+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:30.155765+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:31.159581+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:31.527600+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:32.221587+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:33.118000+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:33.546181+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:12.535765+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:13.442575+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:14.127598+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:14.559657+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:15.462726+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:15.999247+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:17.019757+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:17.539288+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:18.123472+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:19.125429+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:19.290714+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:20.121849+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:20.923811+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:21.468880+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:22.137036+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:02.419740+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:03.104368+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:03.911709+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:04.528190+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:05.112671+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:05.966594+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:06.781253+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:07.125654+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:08.124098+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:09.032153+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:09.415957+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:10.089461+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:10.777704+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:11.209442+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:12.005233+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:52.726982+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:53.383999+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:54.064418+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:55.046451+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:55.929098+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:56.097120+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:57.050977+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:58.099459+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:58.225078+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:59.092427+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:00.066190+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:00.840193+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:01.067567+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:22:01.967893+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:43.134753+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:43.639848+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:45.078576+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:45.797123+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:45.859214+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:46.822137+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:47.428761+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:47.769194+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:48.553127+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:49.265460+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:50.029187+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:51.042628+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:51.231631+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:52.048704+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:41.581047+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:21:42.175476+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:02.008705+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:02.714200+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:03.485733+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:04.116755+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:04.780962+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:05.538851+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:51.947574+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:52.695279+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:53.570832+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:53.821697+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:54.683077+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:55.700495+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:55.803173+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:56.521937+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:57.710811+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:57.782763+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:58.702682+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:59.493151+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:59.771975+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:00.619521+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:20:01.712284+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:41.852821+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:42.658803+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:43.272507+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:44.002702+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:44.664561+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:45.274814+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:45.774159+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:46.694300+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:47.072742+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:47.735661+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:48.707980+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:49.461102+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:50.025909+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:50.688723+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:51.197684+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:31.996198+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 98,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:32.641389+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:33.393554+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:34.634900+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:34.741733+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:35.327532+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:36.253007+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:36.657634+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:37.244019+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:37.916224+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:38.644746+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:39.679174+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:40.664611+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:40.708804+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:41.163006+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:21.599910+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:21.723615+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:22.216974+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:23.142543+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:23.604026+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:24.614249+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:24.789776+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:25.607709+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:26.089668+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:26.947170+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 96,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:27.457631+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:28.480034+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:28.967017+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 99,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:29.489254+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:30.620216+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:30.956189+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:31.647861+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:11.566498+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:12.387678+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:13.565680+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:13.633566+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:14.183622+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 98,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:14.924670+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:15.582078+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 98,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:16.380726+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:17.405018+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:17.552468+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:18.236230+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:18.942697+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:19.592925+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:20.609493+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:00.886741+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:01.578917+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:02.356851+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:02.970078+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:03.904133+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:04.436961+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:05.331935+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:05.608447+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:06.569697+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:07.087828+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:07.629774+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:08.548699+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:09.003694+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:09.574399+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:10.569837+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:11.003509+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:50.993804+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:52.426780+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:52.565491+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:53.866544+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:54.522562+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:54.593748+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:55.299682+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:55.890823+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:56.580302+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:57.443893+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:58.096234+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:58.970947+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:59.529166+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:19:00.526816+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:45.160921+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:46.202650+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:47.108021+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:47.500834+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:48.426245+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:49.246097+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:49.514209+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56549)",
+    "timestamp": "2025-08-05T06:18:50.374524+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:58.187959+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:58.307653+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:58.862889+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:59.354586+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:59.792685+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:10.594576+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:11.836914+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:13.210839+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:14.216656+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:15.214166+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:16.293775+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:18.232670+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:00.188284+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:01.164633+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:02.498125+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:03.471183+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:04.597777+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:05.828748+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:07.191200+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:08.202050+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:17:09.209071+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:51.073988+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:51.892909+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:53.026074+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:54.145439+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:55.308856+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:56.479096+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:58.137915+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:59.177155+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:40.195926+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:42.124107+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:42.572190+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:43.808391+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:45.168435+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:46.135590+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:47.196505+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:48.466728+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 99,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:49.508805+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:29.795514+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:31.079929+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:32.086922+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:33.224993+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:34.447787+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 98,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:36.021663+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 96,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:36.944666+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:38.099519+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 99,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:39.134581+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:20.496455+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:21.566027+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 37.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:23.014099+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:24.060566+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:25.061663+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:26.494702+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:27.724788+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:29.060476+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:09.668157+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 96,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:11.034108+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:12.467842+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:13.468612+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:14.621124+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 99,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:16.062922+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 99,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:17.093819+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:18.083705+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:19.637311+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 99,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56446)",
+    "timestamp": "2025-08-05T06:16:09.019197+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:49.089613+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:50.239981+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:51.160901+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:52.232148+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:53.417634+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:55.238963+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 99,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:55.865645+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 98,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:56.906158+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:58.061227+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:59.251725+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:38.945544+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.0,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:40.202993+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 70,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:41.305109+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 97,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:43.047669+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 97,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:44.173205+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 97,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:45.126945+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 99,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:46.220782+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:47.307717+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 97,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:29.552021+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:31.176193+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 74,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:32.013192+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:32.939728+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 98,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:34.179203+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 71,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:36.238832+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 69,
+    "spo2": 96,
+    "body_temperature": 36.8,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:36.804791+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 98,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:37.936232+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 96,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:18.684477+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 96,
+    "body_temperature": 36.5,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:20.143091+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 73,
+    "spo2": 99,
+    "body_temperature": 36.1,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:21.033219+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 67,
+    "spo2": 96,
+    "body_temperature": 36.3,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:22.186028+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 99,
+    "body_temperature": 36.2,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:23.526615+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 66,
+    "spo2": 97,
+    "body_temperature": 36.6,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:24.658987+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 72,
+    "spo2": 98,
+    "body_temperature": 36.7,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:26.177892+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 65,
+    "spo2": 99,
+    "body_temperature": 36.9,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:27.177236+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  },
+  {
+    "heart_rate": 68,
+    "spo2": 96,
+    "body_temperature": 36.4,
+    "client": "('192.168.1.17', 56136)",
+    "timestamp": "2025-08-05T06:11:28.174105+00:00",
+    "status": {
+      "heart_rate": "Healthy",
+      "spo2": "Healthy",
+      "body_temperature": "Healthy"
+    },
+    "cause": {
+      "heart_rate": "Normal range",
+      "spo2": "Normal oxygen level",
+      "body_temperature": "Normal temperature"
+    }
+  }
+]

@@ -1,0 +1,5696 @@
+[
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:42.791993+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-11",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:42.865921+00:00",
+      "predictions": {
+        "Date": "2013-01-11",
+        "Oil volume": 6.06,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1518.82,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:32.950874+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-03",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:33.024333+00:00",
+      "predictions": {
+        "Date": "2013-01-03",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.81,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:34.312616+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-04",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:34.386192+00:00",
+      "predictions": {
+        "Date": "2013-01-04",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:35.691969+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-05",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:35.767036+00:00",
+      "predictions": {
+        "Date": "2013-01-05",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1393.74,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:36.722037+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-06",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:36.795727+00:00",
+      "predictions": {
+        "Date": "2013-01-06",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.52,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.32,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:37.862733+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-07",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:37.936198+00:00",
+      "predictions": {
+        "Date": "2013-01-07",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:39.338865+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-08",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:39.412074+00:00",
+      "predictions": {
+        "Date": "2013-01-08",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:40.378441+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-09",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:40.452039+00:00",
+      "predictions": {
+        "Date": "2013-01-09",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.49,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:41.579966+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-10",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:41.653777+00:00",
+      "predictions": {
+        "Date": "2013-01-10",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59890)",
+    "timestamp": "2025-08-11T07:40:31.924343+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-02",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:40:32.070838+00:00",
+      "predictions": {
+        "Date": "2013-01-02",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.67,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-19",
+    "Oil volume": 46,
+    "Volume of liquid": 70,
+    "Gas volume": 12319,
+    "Water volume": 24,
+    "Water cut": 33,
+    "Working hours": 24,
+    "Dynamic level": 1768,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:52.251868+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-20",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:52.325771+00:00",
+      "predictions": {
+        "Date": "2013-01-20",
+        "Oil volume": 6.43,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1690.37,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-20",
+    "Oil volume": 46,
+    "Volume of liquid": 70,
+    "Gas volume": 12319,
+    "Water volume": 24,
+    "Water cut": 33,
+    "Working hours": 24,
+    "Dynamic level": 1785,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:53.589486+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-21",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:53.675180+00:00",
+      "predictions": {
+        "Date": "2013-01-21",
+        "Oil volume": 6.18,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1618.82,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-21",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:54.726827+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-22",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:54.811923+00:00",
+      "predictions": {
+        "Date": "2013-01-22",
+        "Oil volume": 6.18,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1618.82,
+        "Water volume": 24.65,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-22",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1779,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:55.939258+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-23",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:56.012462+00:00",
+      "predictions": {
+        "Date": "2013-01-23",
+        "Oil volume": 6.2,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1618.82,
+        "Water volume": 24.65,
+        "Water cut": 69.8,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-23",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1786,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:57.063863+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-24",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:57.137444+00:00",
+      "predictions": {
+        "Date": "2013-01-24",
+        "Oil volume": 6.2,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1618.82,
+        "Water volume": 24.65,
+        "Water cut": 69.8,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-24",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11600,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1769,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:58.217652+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-25",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:58.292098+00:00",
+      "predictions": {
+        "Date": "2013-01-25",
+        "Oil volume": 6.2,
+        "Volume of liquid": 35.54,
+        "Gas volume": 1618.82,
+        "Water volume": 24.65,
+        "Water cut": 69.8,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.32,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-25",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:59.566664+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-26",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:59.640235+00:00",
+      "predictions": {
+        "Date": "2013-01-26",
+        "Oil volume": 6.2,
+        "Volume of liquid": 35.54,
+        "Gas volume": 1618.82,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-26",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:26:00.864189+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-27",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:26:00.937870+00:00",
+      "predictions": {
+        "Date": "2013-01-27",
+        "Oil volume": 6.2,
+        "Volume of liquid": 35.54,
+        "Gas volume": 1618.82,
+        "Water volume": 24.59,
+        "Water cut": 69.8,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:41.408476+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-11",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:41.482235+00:00",
+      "predictions": {
+        "Date": "2013-01-11",
+        "Oil volume": 6.06,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1518.82,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-11",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1828,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:42.642256+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-12",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:42.716033+00:00",
+      "predictions": {
+        "Date": "2013-01-12",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-12",
+    "Oil volume": 42,
+    "Volume of liquid": 68,
+    "Gas volume": 11253,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1761,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:43.880644+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-13",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:43.954138+00:00",
+      "predictions": {
+        "Date": "2013-01-13",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.78,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-13",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:45.090592+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-14",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:45.165078+00:00",
+      "predictions": {
+        "Date": "2013-01-14",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-14",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:46.184861+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-15",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:46.260139+00:00",
+      "predictions": {
+        "Date": "2013-01-15",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-15",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:47.549632+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-16",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:47.623274+00:00",
+      "predictions": {
+        "Date": "2013-01-16",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-16",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:48.884461+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-17",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:48.958015+00:00",
+      "predictions": {
+        "Date": "2013-01-17",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-17",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1754,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:49.899559+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-18",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:49.973000+00:00",
+      "predictions": {
+        "Date": "2013-01-18",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-18",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1763,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:51.129256+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-19",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:51.205707+00:00",
+      "predictions": {
+        "Date": "2013-01-19",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:31.723543+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-03",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:31.797254+00:00",
+      "predictions": {
+        "Date": "2013-01-03",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.81,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:32.804586+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-04",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:32.878231+00:00",
+      "predictions": {
+        "Date": "2013-01-04",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:34.299441+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-05",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:34.372870+00:00",
+      "predictions": {
+        "Date": "2013-01-05",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1393.74,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:35.580198+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-06",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:35.653654+00:00",
+      "predictions": {
+        "Date": "2013-01-06",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.52,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.32,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:36.873906+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-07",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:36.947648+00:00",
+      "predictions": {
+        "Date": "2013-01-07",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:37.819788+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-08",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:37.893117+00:00",
+      "predictions": {
+        "Date": "2013-01-08",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:39.052634+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-09",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:39.126140+00:00",
+      "predictions": {
+        "Date": "2013-01-09",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.49,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:40.254562+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-10",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:40.328038+00:00",
+      "predictions": {
+        "Date": "2013-01-10",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:25:30.551063+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-02",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:25:30.624640+00:00",
+      "predictions": {
+        "Date": "2013-01-02",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.67,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-14",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:50.297977+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-15",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:50.371538+00:00",
+      "predictions": {
+        "Date": "2013-01-15",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-15",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:51.491651+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-16",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:51.573314+00:00",
+      "predictions": {
+        "Date": "2013-01-16",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-16",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:52.816897+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-17",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:52.890331+00:00",
+      "predictions": {
+        "Date": "2013-01-17",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-17",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1754,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:54.160722+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-18",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:54.234153+00:00",
+      "predictions": {
+        "Date": "2013-01-18",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-18",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1763,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:55.217131+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-19",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:55.290569+00:00",
+      "predictions": {
+        "Date": "2013-01-19",
+        "Oil volume": 6.49,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1723.85,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-19",
+    "Oil volume": 46,
+    "Volume of liquid": 70,
+    "Gas volume": 12319,
+    "Water volume": 24,
+    "Water cut": 33,
+    "Working hours": 24,
+    "Dynamic level": 1768,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:56.207164+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-20",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:56.280993+00:00",
+      "predictions": {
+        "Date": "2013-01-20",
+        "Oil volume": 6.43,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1690.37,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-20",
+    "Oil volume": 46,
+    "Volume of liquid": 70,
+    "Gas volume": 12319,
+    "Water volume": 24,
+    "Water cut": 33,
+    "Working hours": 24,
+    "Dynamic level": 1785,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:57.456558+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-21",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:57.533746+00:00",
+      "predictions": {
+        "Date": "2013-01-21",
+        "Oil volume": 6.18,
+        "Volume of liquid": 35.46,
+        "Gas volume": 1618.82,
+        "Water volume": 24.62,
+        "Water cut": 69.8,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:40.493564+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-07",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:40.568102+00:00",
+      "predictions": {
+        "Date": "2013-01-07",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:41.805363+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-08",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:41.878831+00:00",
+      "predictions": {
+        "Date": "2013-01-08",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:43.325161+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-09",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:43.398848+00:00",
+      "predictions": {
+        "Date": "2013-01-09",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.49,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:44.229572+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-10",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:44.302861+00:00",
+      "predictions": {
+        "Date": "2013-01-10",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:45.336254+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-11",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:45.409529+00:00",
+      "predictions": {
+        "Date": "2013-01-11",
+        "Oil volume": 6.06,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1518.82,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-11",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1828,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:46.506504+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-12",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:46.580226+00:00",
+      "predictions": {
+        "Date": "2013-01-12",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-12",
+    "Oil volume": 42,
+    "Volume of liquid": 68,
+    "Gas volume": 11253,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1761,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:47.717823+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-13",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:47.791385+00:00",
+      "predictions": {
+        "Date": "2013-01-13",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.78,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-13",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:48.976332+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-14",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:49.049619+00:00",
+      "predictions": {
+        "Date": "2013-01-14",
+        "Oil volume": 6.15,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1572.96,
+        "Water volume": 24.62,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:34.569852+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-02",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:34.643696+00:00",
+      "predictions": {
+        "Date": "2013-01-02",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.67,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:35.566412+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-03",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:35.639990+00:00",
+      "predictions": {
+        "Date": "2013-01-03",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.81,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:36.807139+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-04",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:36.880871+00:00",
+      "predictions": {
+        "Date": "2013-01-04",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:38.353716+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-05",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:38.427799+00:00",
+      "predictions": {
+        "Date": "2013-01-05",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1393.74,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:20:39.483877+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-06",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:20:39.560246+00:00",
+      "predictions": {
+        "Date": "2013-01-06",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.52,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.32,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:09.495721+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-04",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:09.572745+00:00",
+      "predictions": {
+        "Date": "2013-01-04",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:10.925535+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-05",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:11.018907+00:00",
+      "predictions": {
+        "Date": "2013-01-05",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1393.74,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:12.013160+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-06",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:12.087265+00:00",
+      "predictions": {
+        "Date": "2013-01-06",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.52,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.32,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:13.282835+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-07",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:13.356766+00:00",
+      "predictions": {
+        "Date": "2013-01-07",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:14.547513+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-08",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:14.621163+00:00",
+      "predictions": {
+        "Date": "2013-01-08",
+        "Oil volume": 5.69,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:15.643230+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-09",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:15.717356+00:00",
+      "predictions": {
+        "Date": "2013-01-09",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.49,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:16.982522+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-10",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:17.060601+00:00",
+      "predictions": {
+        "Date": "2013-01-10",
+        "Oil volume": 5.67,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1383.94,
+        "Water volume": 24.82,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:18.121529+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-11",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:18.195199+00:00",
+      "predictions": {
+        "Date": "2013-01-11",
+        "Oil volume": 6.06,
+        "Volume of liquid": 35.41,
+        "Gas volume": 1518.82,
+        "Water volume": 24.75,
+        "Water cut": 69.81,
+        "Working hours": 12.62,
+        "Dynamic level": 2123.52,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:07.067408+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-02",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:07.175789+00:00",
+      "predictions": {
+        "Date": "2013-01-02",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.67,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 60518)",
+    "timestamp": "2025-08-11T07:16:08.018179+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "FORECAST ALERT: Oil production predicted to be critically low tomorrow",
+      "FORECAST WARNING: Water cut predicted to increase tomorrow",
+      "FORECAST ALERT: Reservoir pressure predicted to be critically low tomorrow",
+      "WARNING: High dynamic level"
+    ],
+    "forecast": {
+      "forecast_date": "2013-01-03",
+      "forecast_for": "next_day",
+      "generated_at": "2025-08-11T07:16:08.091984+00:00",
+      "predictions": {
+        "Date": "2013-01-03",
+        "Oil volume": 5.72,
+        "Volume of liquid": 35.45,
+        "Gas volume": 1399.66,
+        "Water volume": 24.81,
+        "Water cut": 69.81,
+        "Working hours": 12.59,
+        "Dynamic level": 2123.08,
+        "Reservoir pressure": 124.42
+      }
+    }
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:17.975041+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:19.094580+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:20.324961+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:21.747968+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:22.870924+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:24.246778+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:12.644926+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:13.770129+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:15.725030+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 53266)",
+    "timestamp": "2025-08-11T07:10:16.843629+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:14.057704+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:15.123112+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:03.768072+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:04.687151+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:06.654774+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:07.883733+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:09.014053+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:10.204632+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:11.426406+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013/01/08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59917)",
+    "timestamp": "2025-08-11T07:03:12.778719+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:53.335628+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:54.483150+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:55.711965+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:56.769088+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:57.984665+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:59.380231+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:01:00.561192+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:01:01.629694+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:01:02.820896+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 57126)",
+    "timestamp": "2025-08-11T07:00:52.284632+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-12",
+    "Oil volume": 42,
+    "Volume of liquid": 68,
+    "Gas volume": 11253,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1761,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:11.792758+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-13",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:13.141899+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-14",
+    "Oil volume": 43,
+    "Volume of liquid": 69,
+    "Gas volume": 11418,
+    "Water volume": 26,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:14.473120+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-15",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:15.470745+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-16",
+    "Oil volume": 44,
+    "Volume of liquid": 71,
+    "Gas volume": 11749,
+    "Water volume": 27,
+    "Water cut": 37,
+    "Working hours": 24,
+    "Dynamic level": 1764,
+    "Reservoir pressure": 213,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:16.778248+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:00.789565+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:02.150937+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:03.291738+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:04.400754+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:05.739609+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:06.991143+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:08.220955+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:09.544095+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-11",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1828,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:55:10.632194+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:54:58.363670+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:54:59.390950+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:54:01.163800+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:54:02.523152+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:50.926352+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:51.727160+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:53.686790+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:54.891498+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:56.144661+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:57.476152+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:53:58.604478+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013-01-08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 64236)",
+    "timestamp": "2025-08-11T06:54:00.030708+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_08",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1784,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:10.995851+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_09",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:12.134136+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_10",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1831,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:13.232474+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_01",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1819,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:01.274068+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_02",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1836,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:02.390349+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_03",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1788,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:04.641642+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_04",
+    "Oil volume": 49,
+    "Volume of liquid": 70,
+    "Gas volume": 13055,
+    "Water volume": 21,
+    "Water cut": 29,
+    "Working hours": 24,
+    "Dynamic level": 1789,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:06.086389+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_05",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1825,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:07.196772+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "High",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Elevated fluid level - monitor pump performance",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [
+      "WARNING: High dynamic level"
+    ],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_06",
+    "Oil volume": 44,
+    "Volume of liquid": 70,
+    "Gas volume": 11768,
+    "Water volume": 26,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1781,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:08.432490+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  },
+  {
+    "Date": "2013_01_07",
+    "Oil volume": 43,
+    "Volume of liquid": 68,
+    "Gas volume": 11432,
+    "Water volume": 25,
+    "Water cut": 36,
+    "Working hours": 24,
+    "Dynamic level": 1790,
+    "Reservoir pressure": 214,
+    "client": "('192.168.1.6', 59874)",
+    "timestamp": "2025-08-11T06:51:09.671818+00:00",
+    "status": {
+      "oil_volume": "Optimal",
+      "water_cut": "Good",
+      "gas_volume": "Normal",
+      "reservoir_pressure": "Normal",
+      "dynamic_level": "Low",
+      "working_hours": "Optimal",
+      "overall_well_health": "Caution"
+    },
+    "cause": {
+      "oil_volume": "Production within optimal range",
+      "water_cut": "Acceptable water levels",
+      "gas_volume": "Gas production within normal range",
+      "reservoir_pressure": "Pressure within normal operating range",
+      "dynamic_level": "Lower fluid level - good drawdown",
+      "working_hours": "Continuous operation achieved",
+      "overall_well_health": "One parameter needs monitoring"
+    },
+    "alerts": [],
+    "forecast": null
+  }
+]
